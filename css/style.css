@@ -1,0 +1,136 @@
+
+.nav-item a:hover{
+    color:green;
+}
+.nav-item a{
+    color: black;
+}
+.btn{
+    border-radius: 19px;
+    width: 113px;
+    height: 40px;
+    margin-top: 10px;
+
+}
+.banner-section{
+    background-image: url('../images/hero-bg.jpg');
+    background-size: cover;
+    height: 450px;
+    background-attachment: fixed;
+    background-position:  right top ;
+}
+.banner-section-1{
+    padding-top: 134px;
+    color: white;
+}
+.banner-section-1 .btn{
+   margin-top: 30px;
+   margin-left: 5px;
+   border-radius: 20px;
+}
+.list{
+    padding: 17px;
+    line-height: 1.5;
+    font-size: 18px;
+    padding-bottom: 1px;
+    padding-top: 12px;
+}
+.row h4{
+    padding: 19px;
+    line-height: 1.4;
+    font-size: 18px;
+}
+.statistics-section h1{
+    font-size: 48px;
+    color: #5fcf80;
+    font-weight: 700;
+}
+
+.mentor-section .icofont-newspaper{
+     padding: 18px;
+     font-size: 39px;
+     border-radius: 50%;
+     position: relative;
+     color: darkseagreen;
+     background: #ecf9f0;
+     margin-left: 69px;
+     top: 49px;
+}
+.mentor-section .col-xl-4{
+    border: 1px solid #eef0ef;
+    height: 351px;
+    width: 235px;
+    position: relative;
+     left: 12px;
+}
+.mentor-section .col-lg-4{
+    background-color: #5fcf80;
+    color: white;
+}
+.mentor-section .btn{
+    padding: 8px;
+    margin-left: 99px;
+    margin-bottom: 10px;
+}
+
+.mentor-section{
+    margin-top: 85px;
+}
+.mentor-section .row{
+     justify-content: space-around;
+     margin-top: 46px;
+}
+.mentor-section .col-xl-4 p{
+    padding-top: 28px;
+    color: #bababa;
+}
+.mentor-section .h2{
+    margin-top: 78px;
+}
+.icofont-cube{
+    padding: 18px;
+    font-size: 39px;
+    border-radius: 50%;
+    position: relative;
+    color: darkseagreen;
+    background: #ecf9f0;
+    margin-left: 69px;
+    top: 49px;
+   
+}
+.icofont-image{
+     padding: 18px;
+    font-size: 39px;
+    border-radius: 50%;
+    position: relative;
+    color: darkseagreen;
+    background: #ecf9f0;
+    margin-left: 69px;
+    top: 49px;
+}
+.icon-section .container{
+    margin-top: 56px;
+}
+.icon-section h3 { 
+    border: 1px solid #eef0ef;
+    line-height: 4;
+    margin-bottom: 25px;
+} 
+
+.icon-section-1 a{
+    padding: 32px;
+    text-decoration: auto;
+    color:#3d4841;
+    font-weight: bolder;
+    }
+.icon-section h3:hover{
+     border-color: #5fcf80;
+     color:#5fcf80 ;
+}   
+.icon-section a:hover{
+   color: #5fcf80;
+}   
+ .icon-section-1 h3:hover{
+     color: #5fcf80;
+ }
+ }
